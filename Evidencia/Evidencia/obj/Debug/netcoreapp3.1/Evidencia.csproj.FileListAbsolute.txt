@@ -1,0 +1,13 @@
+C:\Users\lauri\source\repos\Evidencia\Evidencia\bin\Debug\netcoreapp3.1\Evidencia.exe
+C:\Users\lauri\source\repos\Evidencia\Evidencia\bin\Debug\netcoreapp3.1\Evidencia.deps.json
+C:\Users\lauri\source\repos\Evidencia\Evidencia\bin\Debug\netcoreapp3.1\Evidencia.runtimeconfig.json
+C:\Users\lauri\source\repos\Evidencia\Evidencia\bin\Debug\netcoreapp3.1\Evidencia.runtimeconfig.dev.json
+C:\Users\lauri\source\repos\Evidencia\Evidencia\bin\Debug\netcoreapp3.1\Evidencia.dll
+C:\Users\lauri\source\repos\Evidencia\Evidencia\bin\Debug\netcoreapp3.1\Evidencia.pdb
+C:\Users\lauri\source\repos\Evidencia\Evidencia\obj\Debug\netcoreapp3.1\Evidencia.csprojAssemblyReference.cache
+C:\Users\lauri\source\repos\Evidencia\Evidencia\obj\Debug\netcoreapp3.1\Evidencia.AssemblyInfoInputs.cache
+C:\Users\lauri\source\repos\Evidencia\Evidencia\obj\Debug\netcoreapp3.1\Evidencia.AssemblyInfo.cs
+C:\Users\lauri\source\repos\Evidencia\Evidencia\obj\Debug\netcoreapp3.1\Evidencia.csproj.CoreCompileInputs.cache
+C:\Users\lauri\source\repos\Evidencia\Evidencia\obj\Debug\netcoreapp3.1\Evidencia.dll
+C:\Users\lauri\source\repos\Evidencia\Evidencia\obj\Debug\netcoreapp3.1\Evidencia.pdb
+C:\Users\lauri\source\repos\Evidencia\Evidencia\obj\Debug\netcoreapp3.1\Evidencia.genruntimeconfig.cache
